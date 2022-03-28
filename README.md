@@ -1,4 +1,4 @@
-# ABM_TeachingAndCCE
+# Computational model for Teaching and Cumulative cultural evolution
 
 This repository contains the scripts to run simulations in
 
