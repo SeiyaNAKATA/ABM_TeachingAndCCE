@@ -2,7 +2,8 @@
 
 This repository contains the scripts to run simulations in
 
-***Nakata S, Takezawa M. (in prep.) Conditions under which faithful cultural transmission through teaching promotes cumulative cultural evolution.***
+Nakata, S. & Takezawa, M. (2023). Conditions under which faithful cultural transmission through teaching promotes cumulative cultural evolution. Scientific Reports, 13, 20986. https://doi.org/10.1038/s41598-023-47018-7
+
 
 Description of files:
 
